@@ -1,4 +1,4 @@
-# Tensorflow-examples
+# Tensorflow examples
 From the popular specializations provided by Deeplearning.ai - Practice notebooks of tensorflow.
 
 ### ----[Tensorflow in Practice](https://www.coursera.org/specializations/tensorflow-in-practice)----
